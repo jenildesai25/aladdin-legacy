@@ -20,7 +20,7 @@ A workaround to use the legacy mechanisms while Aladdin works on their new API.
 #### HACS Installation
 - Go to HACS -> Integrations
 - Click the three dots on the top right and select Custom Repositories
-- Enter https://github.com/andyrak/hacs-aladdin-legacy.git as repository, select the category Integration and click Add
+- Enter https://github.com/jenildesai25/aladdin-legacy.git as repository, select the category Integration and click Add
 - A new custom integration shows up for installation (Aladdin Connect Legacy) - install it
 - Restart Home Assistant
 
